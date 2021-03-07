@@ -1,0 +1,15 @@
+{
+  "config":
+  {
+    "encoding":"FLAC",
+    "languageCode":"en-US",
+    "audioChannelCount": 2,
+    "enableSeparateRecognitionPerChannel": false,
+    "enableAutomaticPunctuation": true
+  },
+
+  "audio":
+  {
+    "uri":"gs://for_pp/Gates~1.flac"
+  }
+}

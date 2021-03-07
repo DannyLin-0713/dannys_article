@@ -1,0 +1,17 @@
+{
+  "config":
+  {
+    "encoding":"FLAC",
+    "languageCode":"zh",
+    "audioChannelCount": 2,
+    "enableSeparateRecognitionPerChannel": false,
+    "enableAutomaticPunctuation": true,
+    "enableSpeakerDiarization": true,
+    "diarizationSpeakerCount":3,
+    "model":"phone_call"
+  },
+  "audio":
+  {
+    "uri":"gs://for_pp/PhiF.flac"
+  }
+}
